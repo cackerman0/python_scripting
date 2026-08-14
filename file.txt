@@ -1,6 +1,5 @@
 this
-is
-a
+is a
 script
 to
 count
